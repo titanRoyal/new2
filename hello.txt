@@ -1,5 +1,4 @@
 hello;
 hello;
 hello;
-hello1;
-and master;
+hello1;;
